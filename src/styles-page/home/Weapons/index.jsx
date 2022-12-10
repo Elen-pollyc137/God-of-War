@@ -32,11 +32,11 @@ export default function Weapons() {
             {" "}
             <div>
               <h2>
-                Poder Rúnico <br /> Refinado
+                Mais do que um <br /> garoto com um arco
               </h2>
               <p>
-                Novas habilidades permitem que Kratos use <br /> seu machado de
-                maneira inéditas
+                Atreus aprimorou suas habilidades de <br /> arquearia para
+                desferir novos ataques
               </p>
               <a href="#" className={styles.button}>
                 {" "}
