@@ -2,7 +2,7 @@ import styles from "./styles.module.scss";
 
 export default function Weapons() {
   return (
-    <section className={styles.container}>
+    <section id="guns" className={styles.container}>
       <div className={styles.box}>
         <div className={styles.box_left}>
           <h2>Armas Lendárias</h2>

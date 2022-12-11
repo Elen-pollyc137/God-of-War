@@ -31,8 +31,8 @@ export default function NavBar() {
           <Link href="#" className={styles.options}>
             Bastidores
           </Link>
-          <Link href="#" className={styles.options}>
-            Comunidade
+          <Link href="#guns" className={styles.options}>
+            Armas
           </Link>
           <Link href="#" className={styles.button}>
             Compre Agora
